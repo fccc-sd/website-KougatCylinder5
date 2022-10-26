@@ -61,6 +61,6 @@ nav li a:link{
 	
 }
 iframe{
-	border: none;
+	border = "0";
 	
 }
