@@ -62,5 +62,6 @@ nav li a:link{
 }
 iframe{
 	border = "0";
+	align-items: center;
 	
 }
